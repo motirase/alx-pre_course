@@ -1,89 +1,73 @@
-# -*- mode: gitignore; -*-
-
-*~
-
-\#*\#
-
-/.emacs.desktop
-
-/.emacs.desktop.lock
-
-*.elc
-
-auto-save-list
-
-tramp
-
-.\#*
+ ~/alx-pre_course (main)
 
 
 
-# Org-mode
-
-.org-id-locations
-
-*_archive
+$ cd 0x01-git (enter)
 
 
 
-# flymake-mode
-
-*_flymake.*
+ 
 
 
 
-# eshell files
-
-/eshell/history
-
-/eshell/lastdir
+ ~/alx-pre_course/0x01-git (main)
 
 
 
-# elpa packages
-
-/elpa/
+$ echo "~">.gitignore (enter)
 
 
 
-# reftex files
-
-*.rel
+ 
 
 
 
-# AUCTeX auto folder
-
-/auto/
+ ~/alx-pre_course/0x01-git (main)
 
 
 
-# cask packages
-
-.cask/
-
-dist/
+$ cat .gitignore (enter)
 
 
 
-# Flycheck
-
-flycheck_*.el
+~
 
 
 
-# server auth directory
-
-/server/
+ 
 
 
 
-# projectiles files
-
-.projectile
+ ~/alx-pre_course/0x01-git (main)
 
 
 
-# directory configuration
+$ git add . (enter)
 
-.dir-locals.el
+
+
+ 
+
+
+
+ 
+
+
+
+ ~/alx-pre_course/0x01-git (main)
+
+
+
+$ git commit -m "~" (enter)
+
+
+
+ 
+
+
+
+ ~/alx-pre_course/0x01-git (main)
+
+
+
+git push (enter)
